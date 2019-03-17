@@ -1,6 +1,4 @@
-# Simple_CRUD_Desktop_APP_JAVA
-
-Simple CRUD Opearation APP (Desktop Application).
+# Product Management Desktop App
 
 This project is built using Java and MySQL.
 
