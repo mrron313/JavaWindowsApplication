@@ -2,4 +2,4 @@
 
 This project is built using Java and MySQL.
 
-Screenshots: http://arifulislamm.blogspot.com/2018/04/java-simplegui-application-insert-data.html
+-> Sample product management application built with Java and MySQL.
